@@ -12,7 +12,7 @@
   
   <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  <sonar.host.url>http://3.17.208.92:9000</sonar.host.url>
+  <sonar.host.url>http://13.59.53.17:9000</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>admin123</sonar.password>
   </properties>
@@ -29,7 +29,7 @@
   <distributionManagement>
     <snapshotRepository>
        <id>nexus</id>
-       <url>http://20.62.241.200:8081/nexus/content/repositories/snapshots</url>
+       <url>http://13.59.53.17:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
 
